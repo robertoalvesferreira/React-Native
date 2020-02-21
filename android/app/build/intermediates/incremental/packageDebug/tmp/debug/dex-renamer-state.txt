@@ -1,0 +1,4 @@
+#Thu Feb 20 21:33:53 BRT 2020
+base.0=/home/roberto/Área de Trabalho/rocketseat/modulo06/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
