@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/roberto/Área de Trabalho/rocketseat/modulo06/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
+            "outputFile": "/home/roberto/Área de Trabalho/rocketseat/React-Native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "/home/roberto/.gradle/caches/transforms-2/files-2.1/c0f8158c7606f956af9e92e8bd943c46/res/values-h360dp-land-v13/values-h360dp-land-v13.xml",

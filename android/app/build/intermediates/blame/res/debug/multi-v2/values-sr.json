@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/roberto/Área de Trabalho/rocketseat/modulo06/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
+            "outputFile": "/home/roberto/Área de Trabalho/rocketseat/React-Native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml",
             "map": [
                 {
                     "source": "/home/roberto/.gradle/caches/transforms-2/files-2.1/1c1b5b23f6f7f4ea8d68e8dec6d34791/res/values-sr/values-sr.xml",
