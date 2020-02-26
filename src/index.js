@@ -1,7 +1,8 @@
 import 'react-native-gesture-handler';
 import React from 'react';
 import { StatusBar } from 'react-native';
-import Routes from './src/routes';
+import Routes from './routes';
+import './config/ReactotronConfig';
 
 export default function App() {
   return (
