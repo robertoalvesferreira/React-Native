@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Feb 25 20:05:55 BRT 2020
+#Tue Feb 25 22:05:53 BRT 2020
 56.path=lib/arm64-v8a/libjsinspector.so
 5.base=/home/roberto/Área de Trabalho/rocketseat/React-Native/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/roberto/Área de Trabalho/rocketseat/React-Native/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

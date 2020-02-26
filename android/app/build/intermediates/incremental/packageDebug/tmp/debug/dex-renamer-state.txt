@@ -1,4 +1,4 @@
-#Tue Feb 25 20:05:54 BRT 2020
+#Tue Feb 25 22:05:52 BRT 2020
 base.0=/home/roberto/Área de Trabalho/rocketseat/React-Native/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
